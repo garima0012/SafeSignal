@@ -4,7 +4,7 @@
 
 SafeSignal predicts real-time safety risk for women in Delhi using NCRB crime data and machine learning — giving actionable warnings **before** danger, not police reports after.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-purple)](https://your-deployed-link.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-purple)](https://safesignal.netlify.app)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB)](https://react.dev)
 [![Model](https://img.shields.io/badge/Model-XGBoost%20%2B%20SHAP-orange)](https://xgboost.readthedocs.io)
